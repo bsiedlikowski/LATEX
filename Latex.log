@@ -1,0 +1,184 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250 64-bit) (preloaded format=xelatex 2019.12.22)  2 JAN 2020 23:20
+entering extended mode
+**./Latex.tex
+(Latex.tex
+LaTeX2e <2019-10-01> patch level 3
+("C:\Users\ja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
+("C:\Users\ja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\ja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.sty
+"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ ("C:\Users\ja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\ja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.sty
+"
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Users\ja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\ja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphics
+.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+
+("C:\Users\ja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\xetex.de
+f"
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+) ("C:\Users\ja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count88
+\float@exts=\toks15
+\float@box=\box27
+\@float@everytoks=\toks16
+\@floatcapt=\box28
+) (Latex.aux)
+\openout1 = `Latex.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 8.
+File: snowflakes.jpg Graphic file (type bmp)
+<snowflakes.jpg>
+ [1
+
+]
+File: ScreenShot20180605at21515PM.jpg Graphic file (type bmp)
+<ScreenShot20180605at21515PM.jpg>
+
+Overfull \hbox (21.78285pt too wide) in paragraph at lines 28--29
+[][] 
+ []
+
+[2]
+File: DSC-B0818_Sierpinski.jpg Graphic file (type bmp)
+<DSC-B0818_Sierpinski.jpg>
+ [3] [4]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 66.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 66.
+
+Underfull \hbox (badness 1629) in paragraph at lines 77--79
+[]\TU/lmr/m/n/10 Then Renyi entropy val-
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 82.
+
+Overfull \hbox (11.51999pt too wide) in paragraph at lines 66--84
+[][]
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 66--84
+\TU/lmr/m/n/9 scaling exponent; D-fractal dimension; $\OML/cmm/m/it/9 d[]$\TU/l
+mr/m/n/9 -topological dimension; $\OML/cmm/m/it/9 d[]$\TU/lmr/m/n/9 -Euclidean
+ []
+
+File: DSC-B0817_07.jpg Graphic file (type bmp)
+<DSC-B0817_07.jpg>
+[5]
+File: DSC-B0818_09.jpg Graphic file (type bmp)
+<DSC-B0818_09.jpg>
+File: DSC-B0818_10.jpg Graphic file (type bmp)
+<DSC-B0818_10.jpg>
+ [6]
+File: DSC-B0818_11.jpg Graphic file (type bmp)
+<DSC-B0818_11.jpg>
+File: DSC-B0818_08.jpg Graphic file (type bmp)
+<DSC-B0818_08.jpg>
+ [7]
+File: DSC-B0818_12.jpg Graphic file (type bmp)
+<DSC-B0818_12.jpg>
+File: DSC-B0818_13.jpg Graphic file (type bmp)
+<DSC-B0818_13.jpg>
+ [8]
+File: DSC-B0818_14.jpg Graphic file (type bmp)
+<DSC-B0818_14.jpg>
+File: DSC-B0818_15.jpg Graphic file (type bmp)
+<DSC-B0818_15.jpg>
+ [9]
+Overfull \hbox (3.94702pt too wide) in paragraph at lines 153--154
+[]\TU/lmr/bx/n/10 Animation: \TU/lmr/m/n/10 Since nature uses fractals, animato
+rs can exploit the blueprint
+ []
+
+File: DSC-B0818_18.jpg Graphic file (type bmp)
+<DSC-B0818_18.jpg>
+
+Overfull \hbox (0.96838pt too wide) in paragraph at lines 162--163
+[]\TU/lmr/bx/n/10 Fractal compression: \TU/lmr/m/n/10 Because high-quality phot
+ographs require so much
+ []
+
+[10]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 166.
+File: sinusoidal.jpg Graphic file (type bmp)
+<sinusoidal.jpg>
+File: nova.jpg Graphic file (type bmp)
+<nova.jpg>
+ [11]
+File: magnet.jpg Graphic file (type bmp)
+<magnet.jpg>
+ [12] (Latex.toc)
+\tf@toc=\write3
+\openout3 = `Latex.toc'.
+
+ (Latex.lot)
+\tf@lot=\write4
+\openout4 = `Latex.lot'.
+
+ (Latex.lof)
+\tf@lof=\write5
+\openout5 = `Latex.lof'.
+
+ [13] [14] (Latex.aux) ) 
+Here is how much of TeX's memory you used:
+ 844 strings out of 427272
+ 10606 string characters out of 3143049
+ 79190 words of memory out of 3000000
+ 5322 multiletter control sequences out of 15000+200000
+ 8273 words of font info for 38 fonts, out of 3000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 30i,11n,23p,428b,304s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on Latex.pdf (14 pages).
